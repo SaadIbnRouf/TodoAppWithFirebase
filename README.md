@@ -1,4 +1,4 @@
-# todoappwithfirebase
+# Todo App With Firebase
 
 A Flutter Project where I used Firebase authentication to authenticate user,
 SQLite local database to store Todo list
