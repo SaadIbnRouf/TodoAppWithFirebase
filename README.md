@@ -7,6 +7,18 @@ and finally Flutter Stripe to Payment Integration.
 
 ## Getting Started
 
+#### Step 1:
+User can register or login or logout via Firebase Authentication. 
+
+#### Step 2:
+User can store, read, write or delete todo task in the mobile local storage via SQLite database.
+
+#### Step 3:
+User can read blog data from a generated Rest API through jsonplaceholder. 
+
+#### Step 4:
+User can perform payment via Flutter Stripe.
+
 Login Page
 ![sdfef byj](https://github.com/SaadIbnRouf/TodoAppWithFirebase/assets/45789793/f86219dd-eba1-4b1c-b0f0-b899c7d981d4)
 
